@@ -1,7 +1,9 @@
+var counter = 10;
+
 var initCountdown = function(){
     
       
-        var counter = 10;
+        
         var countdown = function(){
             
             var headherEl = document.querySelector("#question");
