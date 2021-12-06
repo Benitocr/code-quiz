@@ -95,7 +95,7 @@ button[disabled] {
 }
 
 .float-right {
-  float: right;
+  text-align: right;
 }
 
 #question {
