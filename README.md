@@ -11,7 +11,7 @@ To generate a timed quiz.
 ## Website
 https://benitocr.github.io/code-quiz/
 
-![page of code quiz](develop/code-quiz.jpg)
+![page of code quiz](develop/code-quiz.JPG)
 
 ## Contribution
 Made by Benito C.
